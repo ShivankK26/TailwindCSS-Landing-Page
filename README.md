@@ -26,7 +26,7 @@ The Tech Stacks used are:
 
 <!-- GETTING STARTED -->
 # Getting Started
-To get started, first of all go to the official site of tTilwindCSS and copy the CDN Links then proceed by pasting them in your html file.
+To get started, first of all go to the official site of TailwindCSS and copy the CDN Links then proceed by pasting them in your html file.
 
 ## Installation
 After pasting the CDN Links, we will be using various features of tailwindCSS like hover, cards, responsiveness, etc.
